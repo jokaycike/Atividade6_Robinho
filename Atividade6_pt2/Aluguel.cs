@@ -69,6 +69,7 @@ namespace Atividade6_pt2
                         Console.ReadKey();
                         break;
 
+
                     case 2:
                         Console.WriteLine("Qual a marca da moto?");
                         string Motomarca = Console.ReadLine();
